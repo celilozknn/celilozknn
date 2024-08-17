@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🔭 I’m currently working on Pisano
+- 🌱 I’m currently learning Ruby
+- 📫 How to reach me: celilozkan76@gmail.com
 
 <!--
 **celilozknn/celilozknn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

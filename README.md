@@ -1,19 +1,34 @@
-## Hi there 👋
-- 🔭 I’m currently working on Pisano
-- 🌱 I’m currently learning Ruby
-- 📫 How to reach me: celilozkan76@gmail.com
+<div align="center">
 
-<!--
-**celilozknn/celilozknn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=30&duration=3000&pause=1000&color=581845&center=true&vCenter=true&width=600&lines=Hello+there+👋;This+is+Celil+Özkan;Nice+to+meet+you!" alt="Greeting">
 
-Here are some ideas to get you started:
+Hi, I'm Celil Özkan, a 2nd-year Computer Engineering student at Boğaziçi University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+- 🔭 I’m currently working on Pisano<br>
+- 🎓 Studying Computer Engineering at Boğaziçi University<br>
+- 🌱 I’m diving deep into Ruby and expanding my backend skills<br>
+- 📫 Feel free to reach out: celilozkan76@gmail.com
+</p>
+
+### Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
+  <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Rails" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+</p>
+
+### GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=celilozknn&show_icons=true&theme=radical" alt="Celil's GitHub stats" />
+</p>
+
+### Let's Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/celilozknn" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+</div>

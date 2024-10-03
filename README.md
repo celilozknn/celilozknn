@@ -2,10 +2,9 @@
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=30&duration=3000&pause=1000&color=581845&center=true&vCenter=true&width=600&lines=Hello+there+👋;This+is+Celil+Özkan;Nice+to+meet+you!" alt="Greeting">
 
-Hi, I'm Celil Özkan, a 2nd-year Computer Engineering student at Boğaziçi University.
+Hi, I'm Celil Özkan, a 3rd-year Computer Engineering student at Boğaziçi University.
 
 <p align="center">
-- 🔭 I’m currently working on Pisano<br>
 - 🎓 Studying Computer Engineering at Boğaziçi University<br>
 - 🌱 I’m diving deep into Ruby and expanding my backend skills<br>
 - 📫 Feel free to reach out: celilozkan76@gmail.com

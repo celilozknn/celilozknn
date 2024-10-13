@@ -6,7 +6,7 @@ Hi, I'm Celil Özkan, a 3rd-year Computer Engineering student at Boğaziçi Univ
 
 <p align="center">
 - 🎓 Studying Computer Engineering at Boğaziçi University<br>
-- 🌱 I’m diving deep into Ruby and expanding my backend skills<br>
+- 🌱 I’m currently stduying Assembly, C, DSA<br>
 - 📫 Feel free to reach out: celilozkan76@gmail.com
 </p>
 

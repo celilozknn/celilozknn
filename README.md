@@ -18,11 +18,6 @@ Hi, I'm Celil Özkan, a 3rd-year Computer Engineering student at Boğaziçi Univ
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 </p>
 
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=celilozknn&show_icons=true&theme=radical" alt="Celil's GitHub stats" />
-</p>
-
 ### Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/celil-özkan-598142219/" target="_blank">
